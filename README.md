@@ -15,3 +15,7 @@ Spectral typing has been a linchpin in astrophysical research, providing invalua
 
 ## Utility:
 These templates, along with the accompanying scripts, are intended to serve as a robust tool for researchers, educators, and enthusiasts. Whether you're embarking on a detailed spectral analysis, teaching the next generation of astronomers, or simply curious about the intricacies of stellar spectra, this repository aims to be a valuable resource. In the spirit of open science, we encourage the community to engage with this repository. Should you have suggestions, corrections, or enhancements, please feel free to raise an issue or submit a pull request. Together, we can ensure that this resource remains updated, accurate, and beneficial for all.
+
+<img width="1413" alt="Screen Shot 2023-08-30 at 1 02 16 PM" src="https://github.com/LexuZhao/Spectral-Templates-from-Gaia-DR3/assets/109674320/31671d22-f002-4c1f-8ccd-829ba7bc49e9">
+
+Stellar profiles and indicative spectra. On the left, the HR diagram is presented post-outlier exclusion. To the right, exemplary spectra for each primary spectral category (OBAFGKM) are shown. A consistent color scheme links both subplots to the spectral classes, complemented by a unified color reference on the right. These spectra display the unique absorption patterns inherent to each category, underscoring the foundation of their respective classifications.
