@@ -6,8 +6,8 @@ Welcome to this repository, a comprehensive collection of low-resolution spectra
 Spectral typing has been a linchpin in astrophysical research, providing invaluable insights into the intrinsic properties of stars. With the advent of the Gaia mission, we have been presented with a treasure trove of data, which when synergized with existing datasets, can offer unprecedented clarity and depth. This project sought to harness the rich data from Gaia DR3, marrying it with the established benchmarks from the Sloan Digital Sky Survey, to forge a novel set of low-resolution spectral templates.
 
 ## Repository Contents:
-Spectral Templates: A set of spectral templates spanning a diverse range of stellar types.
-Python Scripts: Comprehensive scripts detailing the methodologies employed in the creation of these templates, from data extraction and preprocessing to the final template generation. These scripts serve as both a testament to the rigor of the research and as a guide for those wishing to delve deeper or adapt the methods for their purposes.
+- Spectral Templates: A set of spectral templates spanning a diverse range of stellar types.
+- Python Scripts: Comprehensive scripts detailing the methodologies employed in the creation of these templates, from data extraction and preprocessing to the final template generation. These scripts serve as both a testament to the rigor of the research and as a guide for those wishing to delve deeper or adapt the methods for their purposes.
 
 ## Utility:
 These templates, along with the accompanying scripts, are intended to serve as a robust tool for researchers, educators, and enthusiasts. Whether you're embarking on a detailed spectral analysis, teaching the next generation of astronomers, or simply curious about the intricacies of stellar spectra, this repository aims to be a valuable resource.
