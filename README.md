@@ -10,8 +10,8 @@ Spectral typing has been a linchpin in astrophysical research, providing invalua
 2. Python Scripts: Comprehensive scripts detailing the methodologies employed in the creation of these templates, from data extraction and preprocessing to the final template generation. These scripts serve as both a testament to the rigor of the research and as a guide for those wishing to delve deeper or adapt the methods for their purposes.
 3. Documentation: Supplementary notes and data files to aid users in understanding the context and sample base of the spectra.
 
-## Utility:
-These templates, along with the accompanying scripts, are intended to serve as a robust tool for researchers, educators, and enthusiasts. Whether you're embarking on a detailed spectral analysis, teaching the next generation of astronomers, or simply curious about the intricacies of stellar spectra, this repository aims to be a valuable resource.
+## Publications:
+(add it when paper published)
 
-## Collaboration and Contribution:
-In the spirit of open science, we encourage the community to engage with this repository. Should you have suggestions, corrections, or enhancements, please feel free to raise an issue or submit a pull request. Together, we can ensure that this resource remains updated, accurate, and beneficial for all.
+## Utility:
+These templates, along with the accompanying scripts, are intended to serve as a robust tool for researchers, educators, and enthusiasts. Whether you're embarking on a detailed spectral analysis, teaching the next generation of astronomers, or simply curious about the intricacies of stellar spectra, this repository aims to be a valuable resource. In the spirit of open science, we encourage the community to engage with this repository. Should you have suggestions, corrections, or enhancements, please feel free to raise an issue or submit a pull request. Together, we can ensure that this resource remains updated, accurate, and beneficial for all.
